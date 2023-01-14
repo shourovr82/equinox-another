@@ -1,0 +1,21 @@
+#main-div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#childDiv {
+  padding: 3rem;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 6px 9px 23px 0px rgba(0, 0, 0, 0.82);
+  -webkit-box-shadow: 6px 9px 23px 0px rgba(0, 0, 0, 0.82);
+  -moz-box-shadow: 6px 9px 23px 0px rgba(0, 0, 0, 0.82);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
